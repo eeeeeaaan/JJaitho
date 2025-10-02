@@ -34,11 +34,13 @@ android {
 
 dependencies {
     implementation(libs.appcompat)
-    implementation(libs.androidx.constraintlayout)
     implementation(libs.material)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    implementation(libs.androidx.constraintlayout)
+
+    implementation(libs.androidx.core.ktx)
 
     // 바텀 네비게이션
     implementation(libs.androidx.navigation.fragment.ktx)
