@@ -34,33 +34,6 @@
 
 ---
 
-## 📂 프로젝트 구조
-
-```
-북이온앤온/
-├── 📁 app/
-│   ├── 📁 src/
-│   │   ├── 📁 main/
-│   │   │   ├── 📁 java/          # Java 소스 코드
-│   │   │   │   ├── 📁 activities/   # 액티비티
-│   │   │   │   ├── 📁 fragments/    # 프래그먼트
-│   │   │   │   ├── 📁 adapters/     # 어댑터
-│   │   │   │   ├── 📁 models/       # 데이터 모델
-│   │   │   │   └── 📁 utils/        # 유틸리티
-│   │   │   ├── 📁 res/            # 리소스
-│   │   │   │   ├── 📁 layout/       # 레이아웃 XML
-│   │   │   │   ├── 📁 drawable/     # 이미지 리소스
-│   │   │   │   ├── 📁 values/       # 값 리소스
-│   │   │   │   └── 📁 menu/         # 메뉴 리소스
-│   │   │   └── AndroidManifest.xml
-│   │   └── 📁 test/               # 테스트 코드
-│   └── build.gradle
-├── 📁 gradle/
-└── 📁 docs/                       # 문서
-```
-
----
-
 ## 👥 팀원
 
 | 이름| GitHub |
